@@ -113,7 +113,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Multifunctional Pillow Appliance For Warming Neck
+        subtitle: New Generation of Double Head Moxibustion Instrument 
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
