@@ -26,9 +26,13 @@ sections:
     title: Our Treatments
     grid_items:
       - content: |
-          Pediatric Tuina  
+          Pediatric Tuina
 
           小儿推拿
+
+          \__\__\__
+
+          \---- 
 
           **$68,** *60 Mins*
         image_position: left
