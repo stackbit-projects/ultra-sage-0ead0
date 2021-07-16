@@ -26,49 +26,27 @@ sections:
     title: Our Treatments
     grid_items:
       - content: |
-          Pediatric Tuina  小儿推拿
+          **Pediatric Tuina**  小儿推拿
 
+          **Meridian Stretch Therapy**  养生经络拉经治疗
 
+          **Shoulder + Neck Treatment**  肩颈 + 腰背
 
-          Meridian Stretch Therapy
+          **Hip Therapy + Ovarian Care  **臀疗 + 卵巢保养
 
-          养生经络拉经治疗
+          **Leg Therapy  **腿疗
 
-          Shoulder + Neck Treatment
+          **Lymphatic Detox  **淋巴排毒
 
-          肩颈 + 腰背
+          **Moxibustion  **艾灸
 
-          Hip Therapy + Ovarian Care
+          **Guasha  **刮痧
 
-          臀疗 + 卵巢保养
+          **Body Massage  **身体按摩
 
-          Leg Therapy
+          **Meridian Stretch Therapy  **经络拉伸疗法
 
-          腿疗
-
-          Lymphatic Detox
-
-          淋巴排毒
-
-          Moxibustion
-
-          艾灸
-
-          Guasha
-
-          刮痧
-
-          Body Massage
-
-          身体按摩
-
-          Meridian Stretch Therapy
-
-          经络拉伸疗法
-
-          Oxygen Facial Treatment
-
-          脸部提升注氧
+          **Oxygen Facial Treatment  **脸部提升注氧
         image_position: left
         image_width: twenty-five
       - content: >-
