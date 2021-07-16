@@ -282,11 +282,8 @@ sections:
     grid_items: 
       - content: >-
             ## Let's Talk
+            
             book appointments!
-    content: >-
-        ## Let's Talk
-
-        Reach out to us through our numbers, or come to one of our outlets. Call us to book appointments!
     align_vert: top
     padding_top: medium
     padding_bottom: medium
