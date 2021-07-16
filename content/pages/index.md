@@ -8,7 +8,7 @@ sections:
       healthier life with wellness and beauty.
     actions:
       - label: Contact Us
-        url: /contact
+        url: '#contact-us'
         style: primary
     image: /images/WhatsApp Image 2021-07-13 at 2.25.49 PM (1).jpeg
     image_alt: A smiling woman
