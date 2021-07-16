@@ -183,7 +183,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Arte
+    title: Artemsia Argyi Pie Collection
     subtitle: Our Products
     features:
       - title: null
