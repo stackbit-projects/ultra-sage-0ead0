@@ -60,17 +60,7 @@
         ],
         "has_tertiary_nav": false,
         "has_social": true,
-        "social_links": [
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "content": "Aiyisheng Pte. Ltd."
     },
     "domain": "https://ultra-sage-0ead0.netlify.app"
