@@ -26,9 +26,9 @@ sections:
     title: Our Treatments
     grid_items:
       - content: "
-      Helloh\n\nContent
+      Helloh\n\nConntent
       "
-    grid_cols: two
+    grid_cols: one
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
