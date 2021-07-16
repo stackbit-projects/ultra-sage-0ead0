@@ -159,7 +159,7 @@ sections:
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Stone Needle Portable Massage Plate
+        image_alt: Stone Needle Head and Neck Massage Appliance
         media_position: right
         media_width: fifty
     feature_padding_vert: large
