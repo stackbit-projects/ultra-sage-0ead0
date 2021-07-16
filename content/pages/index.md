@@ -109,7 +109,7 @@ sections:
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Multifunctional Warm Feet Appliance
+        image_alt: Multifunctional Eyes & Nose Moxibustion Instrument 
         media_position: right
         media_width: fifty
       - title: null
