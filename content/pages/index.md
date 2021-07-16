@@ -269,11 +269,8 @@ sections:
             +65 85113735
 
             ***
-
+            #01-32 NEWest, 1 West Coast Drive Singapore 128020
             
-
-
-
     align_vert: top
     padding_top: medium
     padding_bottom: medium
