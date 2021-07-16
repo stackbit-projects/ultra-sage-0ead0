@@ -49,7 +49,7 @@ sections:
           **Oxygen Facial Treatment**  脸部提升注氧
         image_position: left
         image_width: twenty-five
-      - content: "**S$ 38.00 **| *30 Mins*\n\n**S$ 98.00 **| *60 Mins *\n\n**S$ 68.00** | *60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 55.00**\_|\_*40 Mins*\n\n**S$ 55.00**\_|\_*60 Mins*\n\n**S$ 98.00\_**|\_*60 Mins\_*\n\n**S$ 68.00\_**|\_*60 Mins\_*\n"
+      - content: "**S$ 38.00** | *30 Mins*\n\n**S$ 68.00** | *60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 55.00**\_|\_*40 Mins*\n\n**S$ 55.00**\_|\_*60 Mins*\n\n**S$ 98.00** |\_*60 Mins* \n\n**S$ 68.00** |\_*60 Mins* \n"
         image_position: left
         image_width: twenty-five
       - content: >-
