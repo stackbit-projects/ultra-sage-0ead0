@@ -116,7 +116,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: New Generation of Double Head Moxibustion Instrument
+        subtitle: Mini Portable Moxibustion Instrument
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
