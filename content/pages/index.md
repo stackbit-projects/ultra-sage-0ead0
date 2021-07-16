@@ -25,12 +25,12 @@ sections:
   - type: grid_section
     title: Our Treatments
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: |
+          Pediatric Tuina  
 
+          小儿推拿
 
-          **Hanson Deck,** *App Developer, Studio*
+          **$68,** *60 Mins*
         image_position: left
         image_width: twenty-five
       - content: >-
