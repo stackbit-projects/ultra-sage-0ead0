@@ -278,6 +278,7 @@ sections:
     section_id: contact-us
   - type: section
     title: "text"
+    section_id: 
 seo:
   title: Aiyisheng
   description: Aiyisheng beauty services & products 
