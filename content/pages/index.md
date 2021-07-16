@@ -266,7 +266,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: contact-form
-    form_action: /thank-you  
+    form_action: https
     align_vert: top
     padding_top: medium
     padding_bottom: medium
