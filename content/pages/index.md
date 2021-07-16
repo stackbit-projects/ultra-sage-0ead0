@@ -30,19 +30,13 @@ sections:
 
           小儿推拿
 
-          ***
-
           Meridian Stretch Therapy
 
           养生经络拉经治疗
 
-
-
           Shoulder + Neck Treatment
 
           肩颈 + 腰背
-
-
 
           Hip Therapy + Ovarian Care
 
