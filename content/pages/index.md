@@ -267,6 +267,7 @@ sections:
     enable_card: true
     form_id: contact-form
     form_action: https
+    submit_label: submit
     align_vert: top
     padding_top: medium
     padding_bottom: medium
