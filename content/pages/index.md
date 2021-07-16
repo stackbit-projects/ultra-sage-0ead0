@@ -253,30 +253,6 @@ sections:
     features_id: warm
     align: center
     background_color: none
-  - type: form_section
-    content: >-
-      ## Let's talk
-
-
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
-    content_align: left
-    form_position: right
-    form_width: fifty
-    form_layout: stacked
-    enable_card: true
-    form_id: contact-form
-    form_action: https://google.com
-    submit_label: submit
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    background_color: primary
-    background_image: images/watercolor.png
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 8
-    section_id: contact-us
   - type: grid_section
     title: null
     grid_items: 
