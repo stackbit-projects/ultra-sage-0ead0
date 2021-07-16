@@ -277,8 +277,8 @@ sections:
     background_image_opacity: 8
     section_id: contact-us
   - type: section
-    title: "text"
-    section_id: 
+    title: text
+    section_id: nothing-to-see
 seo:
   title: Aiyisheng
   description: Aiyisheng beauty services & products 
