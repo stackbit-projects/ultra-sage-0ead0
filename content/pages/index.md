@@ -285,7 +285,7 @@ sections:
 
             If you would like more information about our products or services, or would like to make an appointment, please feel free to reach out. 
 
-            We
+            We have 
     align_vert: top
     padding_top: medium
     padding_bottom: medium
