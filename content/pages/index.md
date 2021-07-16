@@ -236,11 +236,11 @@ sections:
     subtitle: Our Products
     features:
       - title: null
-        subtitle: Active Dredging 
+        subtitle: Active Dredging Cream
         content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
-        image_alt: Fire Series of Artemsia Argyi Pie
+        image_alt: Active Dredging Cream
         media_position: right
         media_width: fifty
       - title: null
