@@ -101,7 +101,7 @@ sections:
         content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
-        image_alt: Multifunctional Warm Feet Appliance
+        image_alt: Sitting Moxibustion Apparatus 
         media_position: right
         media_width: fifty
       - title: null
