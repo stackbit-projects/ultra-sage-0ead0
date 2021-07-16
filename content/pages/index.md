@@ -102,7 +102,7 @@ sections:
         subtitle: Mini Portable Moxibustion Instrument
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/Mini Portable Moxibustion Instrument.jpeg
         image_alt: Mini Portable Moxibustion Instrument
         media_position: right
         media_width: fifty
