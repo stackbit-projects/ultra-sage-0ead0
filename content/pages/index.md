@@ -31,7 +31,8 @@ sections:
       \n\n
       ***
       \n\n**Shoulder + Neck Treatment**  肩颈 + 腰背\n\nS$ 68.00\_|\_60 Mins
-      \n\n**Hip Therapy + Ovarian Care**  臀疗 + 卵巢保养\n\nS$ 68.00\_|\_60 Mins\n\n**Leg Therapy** 腿疗\n\nS$ 68.00\_|\_60 Mins\n\n**Lymphatic Detox**  淋巴排毒\n\nS$ 68.00\_|\_60 Mins\n\n**Moxibustion**  艾灸\n\nS$ 68.00\_|\_60 Mins\n\n**Guasha**  刮痧\n\nS$ 55.00\_|\_40 Mins\n\n**Body Massage**  身体按摩 (only at Havelock outlet)\n\nS$ 55.00\_|\_60 Mins\n\n**Meridian Stretch Therapy**  经络拉伸疗法\n\nS$ 98.00\_|\_60 Mins\n\n**Oxygen Facial Treatment**  脸部提升注氧\n\nS$ 68.00\_|\_60 Mins\n\n
+      \n\n**Hip Therapy + Ovarian Care**  臀疗 + 卵巢保养\n\nS$ 68.00\_|\_60 Mins
+      \n\n**Leg Therapy** 腿疗\n\nS$ 68.00\_|\_60 Mins\n\n**Lymphatic Detox**  淋巴排毒\n\nS$ 68.00\_|\_60 Mins\n\n**Moxibustion**  艾灸\n\nS$ 68.00\_|\_60 Mins\n\n**Guasha**  刮痧\n\nS$ 55.00\_|\_40 Mins\n\n**Body Massage**  身体按摩 (only at Havelock outlet)\n\nS$ 55.00\_|\_60 Mins\n\n**Meridian Stretch Therapy**  经络拉伸疗法\n\nS$ 98.00\_|\_60 Mins\n\n**Oxygen Facial Treatment**  脸部提升注氧\n\nS$ 68.00\_|\_60 Mins\n\n
       "
     grid_cols: one
     grid_gap_horiz: medium
