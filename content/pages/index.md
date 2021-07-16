@@ -25,7 +25,7 @@ sections:
   - type: grid_section
     title: Our Treatments
     grid_items:
-      - content: "**Pediatric Tuina**  小儿推拿 (only at NEWest outlet)\n\nS$ 38.00 | 30 Mins "
+      - content: "**Pediatric Tuina**  小儿推拿 (only at NEWest outlet)\n\nS$ 38.00 | 30 Mins
       "
     grid_cols: one
     grid_gap_horiz: medium
