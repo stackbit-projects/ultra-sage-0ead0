@@ -157,7 +157,7 @@ sections:
         subtitle: Stone Needle Massage Appliance - Cordless Edition
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/Stone Needle Massage Appliance - Cordless Edition.jpeg
         image_alt: Stone Needle Massage Appliance - Cordless Edition
         media_position: right
         media_width: fifty
