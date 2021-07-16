@@ -73,19 +73,9 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
+      - title: 
         subtitle: lorem-ipsum
-        content: >-
-          ## Stop lying 
-
-
-          Lorem  dolor sit amet, **stop doing this to me pleas  adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - This isn't showing up like I want it to 
+        content: 
         actions: []
         image_alt: lorem-ipsum
         align: left
