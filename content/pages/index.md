@@ -287,7 +287,7 @@ sections:
             
             We have two outlets in Singapore, as listed on the right, and you may contact either one of them. 
       - content: >-
-            here goes one outlet 
+            ## Find Us
     align_vert: top
     padding_top: medium
     padding_bottom: medium
