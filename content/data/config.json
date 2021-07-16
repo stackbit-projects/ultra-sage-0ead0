@@ -35,7 +35,20 @@
         "has_tertiary_nav": false,
         "has_social": true,
         "social_links": [],
-        "content": "Aiyisheng Pte. Ltd."
+        "content": "Aiyisheng Pte. Ltd.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://ultra-sage-0ead0.netlify.app"
 }
