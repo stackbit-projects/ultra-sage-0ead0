@@ -267,14 +267,6 @@ sections:
         image_alt: Renew Firming Essential Oil
         media_position: right
         media_width: fifty
-      - title: null
-        subtitle: Earth Series of Artemsia Argyi Pie
-        content: null
-        actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Earth Series of Artemsia Argyi Pie
-        media_position: right
-        media_width: fifty
     feature_padding_vert: large
     features_id: warm
     align: center
