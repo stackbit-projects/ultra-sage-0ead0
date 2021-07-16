@@ -7,7 +7,7 @@ sections:
       Located in Singapore, we provide products and services to help you live a
       healthier life with wellness and beauty.
     actions:
-      - label: Contact Me
+      - label: Contact Us
         url: /contact
         style: primary
     image: /images/WhatsApp Image 2021-07-13 at 2.25.49 PM (1).jpeg
@@ -255,32 +255,27 @@ sections:
     background_color: none
   - type: grid_section
     title: null
-    grid_items: 
+    grid_items:
       - content: >-
-            ## Let's Talk
+          ## Let's Talk
 
-            If you would like more information about our products or services, or would like to make an appointment, please feel free to reach out. 
-            
-            We have two outlets in Singapore, as listed on the right, and you may contact either one of them. 
-      - content: >-
-            ## Find Us
+          If you would like more information about our products or services, or
+          would like to make an appointment, please feel free to reach out. 
 
-            ***
+          We have two outlets in Singapore, as listed on the right, and you may
+          contact either one of them. 
+      - content: |-
+          ## Find Us
+          ***
+          #01-05 Havelock, 2 Havelock Rd. Singapore 059763
 
-            #01-05 Havelock, 2 Havelock Rd. Singapore 059763
+          +65 8511 3735
+          ***
 
+          #01-32 NEWest, 1 West Coast Drive Singapore 128020
 
-            +65 8511 3735
-
-            ***
-
-
-            #01-32 NEWest, 1 West Coast Drive Singapore 128020
-
-
-            +65 8138 5058
-
-            ***
+          +65 8138 5058
+          ***
     align_vert: top
     padding_top: medium
     padding_bottom: medium
@@ -293,7 +288,6 @@ sections:
     grid_cols: two
 seo:
   title: Aiyisheng
-  description: Aiyisheng beauty services & products 
-  
+  description: Aiyisheng beauty services & products
 layout: advanced
 ---
