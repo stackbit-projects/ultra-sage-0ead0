@@ -24,7 +24,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Our Treatments
-    subtitle: "Stay Happy & Healthy with our treatments"
+    subtitle: "Stay Happy & Healthy with Our Treatments"
     grid_items:
       - content: "**Pediatric Tuina**  小儿推拿 (only at NEWest outlet)\n\nS$ 38.00 | 30 Mins
       \n\n
