@@ -91,7 +91,7 @@ sections:
         media_position: right
         media_width: fifty
     feature_padding_vert: large
-    features_id: products
+    features_id: warm
     align: center
     background_color: none
   - type: features_section
