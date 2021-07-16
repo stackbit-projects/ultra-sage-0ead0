@@ -62,7 +62,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: features_section
-    title: Our Products
+    title: Products to Keep Warm
     subtitle: Our Products
     features:
       - title: Content Creation
