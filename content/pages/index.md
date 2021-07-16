@@ -229,7 +229,7 @@ sections:
         subtitle: Relaxing Essential Oil
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/WhatsApp Image 2021-07-13 at 3.09.26 PM.jpeg
         image_alt: Relaxing Essential Oil
         media_position: right
         media_width: fifty
