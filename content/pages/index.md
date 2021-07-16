@@ -171,7 +171,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Stone Needle Automatic Abdominal Massager
+        subtitle: Stone Needle Massage Appliance - Cordless Edition
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
