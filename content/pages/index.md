@@ -74,7 +74,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Multifunctional Warm Feet Appliance
+        subtitle: Multifunctional Warm Buttocks Appliance
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
