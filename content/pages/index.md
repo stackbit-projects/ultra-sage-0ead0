@@ -25,7 +25,9 @@ sections:
   - type: grid_section
     title: Our Treatments
     grid_items:
-      - content: "**Pediatric Tuina**\_ 小儿推拿 (only at NEWest outlet)\n\nS$ 38.00 | 30 Mins\_\n\n\\*\\*Shoulder + Neck Treatment\\*\\*\_ 肩颈 + 腰背\\n\\nS$ 68.00\\\\_|\\\\*60 Mins\\n\\n\\*\\*Hip Therapy + Ovarian Care\\*\\*\_ 臀疗 + 卵巢保养\\n\\nS$ 68.00\\\\*|\\\\*60 Mins\\n\\n\\*\\*Leg Therapy\\*\\* 腿疗\\n\\nS$ 68.00\\\\*|\\\\*60 Mins\\n\\n\\*\\*Lymphatic Detox\\*\\*\_ 淋巴排毒\\n\\nS$ 68.00\\\\*|\\\\*60 Mins\\n\\n\\*\\*Moxibustion\\*\\*\_ 艾灸\\n\\nS$ 68.00\\\\*|\\\\*60 Mins\\n\\n\\*\\*Guasha\\*\\*\_ 刮痧\\n\\nS$ 55.00\\\\*|\\\\*40 Mins\\n\\n\\*\\*Body Massage\\*\\*\_ 身体按摩 (only at Havelock outlet)\\n\\nS$ 55.00\\\\*|\\\\*60 Mins\\n\\n\\*\\*Meridian Stretch Therapy\\*\\*\_ 经络拉伸疗法\\n\\nS$ 98.00\\\\*|\\\\*60 Mins\\n\\n\\*\\*Oxygen Facial Treatment\\*\\*\_ 脸部提升注氧\\n\\nS$ 68.00\\\\*|\\\\_60 Mins\\n\\n\"\n\n\_\_ \_ \_\n"
+      - content: "**Pediatric Tuina**  小儿推拿 (only at NEWest outlet)\n\nS$ 38.00 | 30 Mins 
+      \n\n***\n\n**Shoulder + Neck Treatment**  肩颈 + 腰背\n\nS$ 68.00\_|\_60 Mins\n\n**Hip Therapy + Ovarian Care**  臀疗 + 卵巢保养\n\nS$ 68.00\_|\_60 Mins\n\n**Leg Therapy** 腿疗\n\nS$ 68.00\_|\_60 Mins\n\n**Lymphatic Detox**  淋巴排毒\n\nS$ 68.00\_|\_60 Mins\n\n**Moxibustion**  艾灸\n\nS$ 68.00\_|\_60 Mins\n\n**Guasha**  刮痧\n\nS$ 55.00\_|\_40 Mins\n\n**Body Massage**  身体按摩 (only at Havelock outlet)\n\nS$ 55.00\_|\_60 Mins\n\n**Meridian Stretch Therapy**  经络拉伸疗法\n\nS$ 98.00\_|\_60 Mins\n\n**Oxygen Facial Treatment**  脸部提升注氧\n\nS$ 68.00\_|\_60 Mins\n\n"
+      "
     grid_cols: one
     grid_gap_horiz: medium
     grid_gap_vert: large
