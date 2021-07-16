@@ -65,7 +65,7 @@ sections:
     title: Products to Keep Warm
     subtitle: Our Products
     features:
-      - title: Content Creation
+      - title:
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
