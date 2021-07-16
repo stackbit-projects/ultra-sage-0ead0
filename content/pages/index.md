@@ -41,7 +41,7 @@ sections:
       \n\n**Meridian Stretch Therapy**  经络拉伸疗法\n\nS$ 98.00\_|\_60 Mins
       \n\n**Oxygen Facial Treatment**  脸部提升注氧\n\nS$ 68.00\_|\_60 Mins\n\n
       "
-    grid_cols: one
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
