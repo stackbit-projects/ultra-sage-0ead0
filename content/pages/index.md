@@ -260,11 +260,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Water Series of Artemsia Argyi Pie
+        subtitle: Renew Firming Essential Oil
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Water Series of Artemsia Argyi Pie
+        image_alt: Renew Firming Essential Oil
         media_position: right
         media_width: fifty
       - title: null
