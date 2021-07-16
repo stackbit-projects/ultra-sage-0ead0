@@ -278,11 +278,11 @@ sections:
     background_image_opacity: 8
     section_id: contact-us
   - type: grid_section
-    title: Here's a title for ya
+    title: null
     grid_items: 
       - content: >-
             ## Let's Talk
-            
+
             book appointments!
     align_vert: top
     padding_top: medium
