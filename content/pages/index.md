@@ -279,6 +279,7 @@ sections:
   - type: grid_section
     title: text
     section_id: nothing-to-see
+    
 seo:
   title: Aiyisheng
   description: Aiyisheng beauty services & products 
