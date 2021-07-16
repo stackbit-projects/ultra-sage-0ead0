@@ -182,6 +182,62 @@ sections:
     features_id: warm
     align: center
     background_color: none
+  - type: features_section
+    title: Stone Needle Massage Products
+    subtitle: Our Products
+    features:
+      - title: null
+        subtitle: Stone Needle Beauty Instrument
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image_alt: Stone Needle Beauty Instrument
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Stone Needle Eyes Massage Appliance 
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Stone Needle Eyes Massage Appliance 
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Stone Needle Portable Massage Plate
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Stone Needle Portable Massage Plate
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Stone Needle Head and Neck Massage Appliance
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Stone Needle Head and Neck Massage Appliance
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Stone Needle Automatic Abdominal Massager
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Stone Needle Automatic Abdominal Massager
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Stone Needle Massage Appliance - Cordless Edition
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Stone Needle Massage Appliance - Cordless Edition
+        media_position: right
+        media_width: fifty
+    feature_padding_vert: large
+    features_id: warm
+    align: center
+    background_color: none
   - type: form_section
     content: >-
       ## Let's talk
