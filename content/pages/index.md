@@ -276,7 +276,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     section_id: contact-us
-  - type: section
+  - type: grid_section
     title: text
     section_id: nothing-to-see
 seo:
