@@ -95,6 +95,7 @@ sections:
         align: left
         type: feature
         image: /images/Multifunctional Warm Feet Appliance.jpeg
+        video_embed_html: 'hello '
     feature_padding_vert: large
     align: center
     background_color: none
