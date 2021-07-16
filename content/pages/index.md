@@ -25,28 +25,7 @@ sections:
   - type: grid_section
     title: Our Treatments
     grid_items:
-      - content: |
-          **Pediatric Tuina**  小儿推拿 (only at NEWest outlet)
-          \n **S$ 38.00** | *30 Mins*
-          ____
-
-          **Shoulder + Neck Treatment**  肩颈 + 腰背
-
-          **Hip Therapy + Ovarian Care**  臀疗 + 卵巢保养
-
-          **Leg Therapy** 腿疗
-
-          **Lymphatic Detox**  淋巴排毒
-
-          **Moxibustion**  艾灸
-
-          **Guasha**  刮痧
-
-          **Body Massage**  身体按摩 (only at Havelock outlet)
-
-          **Meridian Stretch Therapy**  经络拉伸疗法
-
-          **Oxygen Facial Treatment**  脸部提升注氧
+      - content: "**Pediatric Tuina**  小儿推拿 (only at NEWest outlet)\n\nS$ 38.00 | 30 Mins \n\n***\n\n**Shoulder + Neck Treatment**  肩颈 + 腰背\n\nS$ 68.00\_|\_60 Mins\n\n**Hip Therapy + Ovarian Care**  臀疗 + 卵巢保养\n\nS$ 68.00\_|\_60 Mins\n\n**Leg Therapy** 腿疗\n\nS$ 68.00\_|\_60 Mins\n\n**Lymphatic Detox**  淋巴排毒\n\nS$ 68.00\_|\_60 Mins\n\n**Moxibustion**  艾灸\n\nS$ 68.00\_|\_60 Mins\n\n**Guasha**  刮痧\n\nS$ 55.00\_|\_40 Mins\n\n**Body Massage**  身体按摩 (only at Havelock outlet)\n\nS$ 55.00\_|\_60 Mins\n\n**Meridian Stretch Therapy**  经络拉伸疗法\n\nS$ 98.00\_|\_60 Mins\n\n**Oxygen Facial Treatment**  脸部提升注氧\n\nS$ 68.00\_|\_60 Mins\n\n"
         image_position: left
         image_width: twenty-five
       - content: "**S$ 38.00** | *30 Mins*\n\n**S$ 68.00** | *60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 55.00**\_|\_*40 Mins*\n\n**S$ 55.00**\_|\_*60 Mins*\n\n**S$ 98.00** |\_*60 Mins* \n\n**S$ 68.00** |\_*60 Mins* \n"
@@ -105,23 +84,23 @@ sections:
         content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
-        image_alt: Sitting Moxibustion Apparatus 
+        image_alt: Sitting Moxibustion Apparatus
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Multifunctional Eyes & Nose Moxibustion Instrument 
+        subtitle: Multifunctional Eyes & Nose Moxibustion Instrument
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Multifunctional Eyes & Nose Moxibustion Instrument 
+        image_alt: Multifunctional Eyes & Nose Moxibustion Instrument
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: New Generation of Double Head Moxibustion Instrument 
+        subtitle: New Generation of Double Head Moxibustion Instrument
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: New Generation of Double Head Moxibustion Instrument 
+        image_alt: New Generation of Double Head Moxibustion Instrument
         media_position: right
         media_width: fifty
     feature_padding_vert: large
