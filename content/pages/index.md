@@ -173,7 +173,7 @@ sections:
         subtitle: Fire Series of Artemsia Argyi Pie
         content: null
         actions: []
-        image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image: /images/fire.jpeg
         image_alt: Fire Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
