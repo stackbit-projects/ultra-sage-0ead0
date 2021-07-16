@@ -219,19 +219,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Stone Needle Automatic Abdominal Massager
+        subtitle: Earth Series of Artemsia Argyi Pie
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Stone Needle Automatic Abdominal Massager
-        media_position: right
-        media_width: fifty
-      - title: null
-        subtitle: Stone Needle Massage Appliance - Cordless Edition
-        content: null
-        actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Stone Needle Massage Appliance - Cordless Edition
+        image_alt: Earth Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
     feature_padding_vert: large
