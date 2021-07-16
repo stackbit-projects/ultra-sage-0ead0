@@ -92,6 +92,37 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - type: features_section
+    title: Products to Keep Warm
+    subtitle: Our Products
+    features:
+      - title: null
+        subtitle: Multifunctional Warm Feet Appliance
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image_alt: Multifunctional Warm Feet Appliance
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Multifunctional Warm Buttocks Appliance
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Multifunctional Warm Feet Appliance
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Multifunctional Pillow Appliance For Warming Neck
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Multifuctional Pillow Appliance For Warming Neck
+        media_position: right
+        media_width: fifty
+    feature_padding_vert: large
+    align: center
+    background_color: none
   - type: form_section
     content: >-
       ## Let's talk
