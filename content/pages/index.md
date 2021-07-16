@@ -278,8 +278,16 @@ sections:
     section_id: contact-us
   - type: grid_section
     title: text
-    section_id: nothing-to-see
-    
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    background_color: primary
+    background_image: images/watercolor.png
+    background_image_repeat: repeat
+    background_image_size: contain
+    background_image_opacity: 8
+    section_id: contact-us
+
 seo:
   title: Aiyisheng
   description: Aiyisheng beauty services & products 
