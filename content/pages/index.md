@@ -278,7 +278,7 @@ sections:
     background_image_opacity: 8
     section_id: contact-us
   - type: grid_section
-    title: null
+    title: Here's a title for ya
     content: >-
         ## Let's Talk
 
