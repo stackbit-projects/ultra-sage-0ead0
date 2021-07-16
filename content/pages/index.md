@@ -264,6 +264,17 @@ sections:
 
           We have two outlets in Singapore, as listed on the right, and you may
           contact either one of them. 
+
+          ***
+          #01-05 Havelock, 2 Havelock Rd. Singapore 059763
+
+          +65 8511 3735
+          ***
+
+          #01-32 NEWest, 1 West Coast Drive Singapore 128020
+
+          +65 8138 5058
+          ***
       - content: |-
           ## Find Us
           ***
