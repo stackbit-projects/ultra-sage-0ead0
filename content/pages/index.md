@@ -24,7 +24,6 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Our Treatments
-    subtitle: What My Clients Say
     grid_items:
       - content: >-
           Alyvia is an amazing content writer. She helped us produce microcopy
