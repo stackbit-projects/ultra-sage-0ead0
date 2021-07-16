@@ -266,7 +266,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: contact-form
-    form_action: https
+    form_action: https://google.com
     submit_label: submit
     align_vert: top
     padding_top: medium
