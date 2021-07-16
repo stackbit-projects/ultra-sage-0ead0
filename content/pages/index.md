@@ -125,7 +125,7 @@ sections:
         subtitle: Stone Needle Eyes Massage Appliance
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/Stone Needle Eyes Massage Appliance.jpeg
         image_alt: Stone Needle Eyes Massage Appliance
         media_position: right
         media_width: fifty
