@@ -266,11 +266,14 @@ sections:
             ## Find Us
 
             #01-05 Havelock, 2 Havelock Rd. Singapore 059763
+
+
+            
             +65 85113735
 
             ***
             #01-32 NEWest, 1 West Coast Drive Singapore 128020
-            
+            +65 81385058
     align_vert: top
     padding_top: medium
     padding_bottom: medium
