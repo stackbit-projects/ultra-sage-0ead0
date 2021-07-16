@@ -141,7 +141,7 @@ sections:
         subtitle: Stone Needle Head and Neck Massage Appliance
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/Stone Needle Head and Neck Massage Appliance.jpeg
         image_alt: Stone Needle Head and Neck Massage Appliance
         media_position: right
         media_width: fifty
