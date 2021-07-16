@@ -189,7 +189,7 @@ sections:
         subtitle: Gold Series of Artemsia Argyi Pie
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/gold.jpeg
         image_alt: Gold Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
