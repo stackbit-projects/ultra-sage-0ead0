@@ -27,7 +27,7 @@ sections:
     grid_items:
       - content: "
       Hello \n 
-      world
+      worlds
       "
     grid_cols: two
     grid_gap_horiz: medium
