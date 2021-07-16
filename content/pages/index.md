@@ -26,7 +26,7 @@ sections:
     title: Our Treatments
     grid_items:
       - content: "
-      Hello \nContent
+      Helloh\nContent
       "
     grid_cols: two
     grid_gap_horiz: medium
