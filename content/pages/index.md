@@ -163,11 +163,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Stone Needle Automatic Abdominal 
+        subtitle: Stone Needle Automatic Abdominal Massager
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Stone Needle Head and Neck Massage Appliance
+        image_alt: Stone Needle Automatic Abdominal Massager
         media_position: right
         media_width: fifty
     feature_padding_vert: large
