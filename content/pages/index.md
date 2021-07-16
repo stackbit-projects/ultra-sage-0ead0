@@ -33,7 +33,7 @@ sections:
     align: center
     background_color: secondary
     background_image: /images/pexels-andrea-piacquadio-3760262.jpg
-    background_image_repeat: repeat
+    background_image_repeat: fill 
     background_image_size: contain
     background_image_opacity: 10
   - type: features_section
