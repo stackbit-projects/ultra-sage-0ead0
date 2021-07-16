@@ -26,7 +26,7 @@ sections:
     title: Our Treatments
     grid_items:
       - content: |
-          **Pediatric Tuina**  小儿推拿
+          **Pediatric Tuina**  小儿推拿 (only at NEWest outlet)
 
           **Shoulder + Neck Treatment**  肩颈 + 腰背
 
@@ -40,7 +40,7 @@ sections:
 
           **Guasha**  刮痧
 
-          **Body Massage**  身体按摩
+          **Body Massage**  身体按摩 (only at Havelock outlet)
 
           **Meridian Stretch Therapy**  经络拉伸疗法
 
