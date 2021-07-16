@@ -231,7 +231,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Artemsia Argyi Pie Collection
+    title: Stay Beautiful
     subtitle: Our Products
     features:
       - title: null
