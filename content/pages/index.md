@@ -285,7 +285,9 @@ sections:
 
             If you would like more information about our products or services, or would like to make an appointment, please feel free to reach out. 
             
-            We have 
+            We have two outlets in Singapore, as listed on the right, and you may contact either one of them. 
+      - content: >-
+            here goes one outlet 
     align_vert: top
     padding_top: medium
     padding_bottom: medium
