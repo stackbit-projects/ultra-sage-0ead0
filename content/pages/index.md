@@ -31,6 +31,7 @@ sections:
       \n\n
       ***
       \n\n**Shoulder + Neck Treatment**  肩颈 + 腰背\n\nS$ 68.00\_|\_60 Mins
+      \n\n***
       \n\n**Hip Therapy + Ovarian Care**  臀疗 + 卵巢保养\n\nS$ 68.00\_|\_60 Mins
       \n\n**Leg Therapy** 腿疗\n\nS$ 68.00\_|\_60 Mins
       \n\n**Lymphatic Detox**  淋巴排毒\n\nS$ 68.00\_|\_60 Mins
