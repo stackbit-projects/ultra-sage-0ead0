@@ -63,6 +63,7 @@ sections:
     background_image_opacity: 12
   - type: features_section
     title: Our Products
+    subtitle: Testing some quick text
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
