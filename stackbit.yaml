@@ -803,7 +803,6 @@ models:
           - four
         default: three
         description: Show the specified number of items in a grid row
-        required: true
       - type: enum
         name: grid_gap_vert
         label: Grid gap vertical
