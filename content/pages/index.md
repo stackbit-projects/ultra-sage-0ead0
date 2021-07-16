@@ -86,7 +86,7 @@ sections:
         subtitle: Multifunctional Eyes & Nose Moxibustion Instrument
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/Multifunctional Eyes & Nose Moxibustion Instrument.jpeg
         image_alt: Multifunctional Eyes & Nose Moxibustion Instrument
         media_position: right
         media_width: fifty
