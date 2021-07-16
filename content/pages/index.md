@@ -97,7 +97,7 @@ sections:
     subtitle: Our Products
     features:
       - title: null
-        subtitle: Multifunctional Warm Feet Appliance
+        subtitle: Sitting Moxibustion Therapeutic Apparatus
         content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
