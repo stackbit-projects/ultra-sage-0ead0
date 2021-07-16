@@ -94,7 +94,7 @@ sections:
         subtitle: New Generation of Double Head Moxibustion Instrument
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/New Generation of Double Head Moxibustion Instrument.jpeg
         image_alt: New Generation of Double Head Moxibustion Instrument
         media_position: right
         media_width: fifty
