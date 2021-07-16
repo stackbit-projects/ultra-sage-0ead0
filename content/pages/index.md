@@ -183,7 +183,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Stone Needle Massage Products
+    title: Arte
     subtitle: Our Products
     features:
       - title: null
