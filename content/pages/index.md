@@ -26,11 +26,9 @@ sections:
     title: Our Treatments
     grid_items:
       - content: |
-          Pediatric Tuina
+          Pediatric Tuina  小儿推拿
 
-          小儿推拿
 
-          >
 
           Meridian Stretch Therapy
 
