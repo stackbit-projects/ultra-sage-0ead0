@@ -117,7 +117,7 @@ sections:
         subtitle: Stone Needle Beauty Instrument
         content: null
         actions: []
-        image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image: /images/Stone Needle Beauty Instrument.jpeg
         image_alt: Stone Needle Beauty Instrument
         media_position: right
         media_width: fifty
