@@ -78,7 +78,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
-          ## Lorem ipsum
+          ## Stop lying 
 
 
           Lorem  dolor sit amet, **stop doing this to me pleas  adipiscing elit**, sed do
@@ -87,11 +87,9 @@ sections:
 
           - Lorem ipsum
 
-          - dolor sit amet
+          - This isn't showing up like I want it to 
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
         align: left
         type: feature
         image: /images/Multifunctional Warm Feet Appliance.jpeg
