@@ -25,13 +25,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [],
         "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
-                "style": "link"
-            }
-        ],
+        "secondary_nav_links": [],
         "has_tertiary_nav": false,
         "has_social": true,
         "social_links": [],
