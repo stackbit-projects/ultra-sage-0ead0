@@ -127,7 +127,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Products to Keep Warm
+    title: Stone Needle Massage Products
     subtitle: Our Products
     features:
       - title: null
