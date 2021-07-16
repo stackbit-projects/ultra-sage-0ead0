@@ -135,7 +135,7 @@ sections:
         content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
-        image_alt: Multifunctional Warm Feet Appliance
+        image_alt: Stone Needle Beauty Instrument
         media_position: right
         media_width: fifty
       - title: null
@@ -143,11 +143,11 @@ sections:
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Multifunctional Warm Feet Appliance
+        image_alt: Stone Needle Eyes Massage Appliance 
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Multifunctional Pillow Appliance For Warming Neck
+        subtitle: Stone 
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
