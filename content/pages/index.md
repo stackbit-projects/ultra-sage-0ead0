@@ -181,7 +181,7 @@ sections:
         subtitle: Wood Series of Artemsia Argyi Pie
         content: null
         actions: []
-        image: /images/hero.png
+        image: /images/wood.jpeg
         image_alt: Wood Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
