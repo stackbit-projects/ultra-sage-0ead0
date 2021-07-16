@@ -299,8 +299,8 @@ sections:
     background_image_opacity: 8
     section_id: contact-us
 seo:
-  title: Stackbit Personal Theme
-  description: The preview of the Personal theme
+  title: Aiyisheng
+  description: Aiyisheng beauty services & products 
   extra:
     - name: 'og:type'
       value: website
