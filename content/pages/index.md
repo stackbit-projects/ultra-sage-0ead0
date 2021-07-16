@@ -187,7 +187,7 @@ sections:
     subtitle: Our Products
     features:
       - title: null
-        subtitle: Stone Needle Beauty Instrument
+        subtitle: Fire Series of Artemsia Argyi Pie
         content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
