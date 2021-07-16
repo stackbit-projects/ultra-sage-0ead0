@@ -35,7 +35,6 @@ sections:
       \n\n**Leg Therapy** 腿疗\n\nS$ 68.00\_|\_60 Mins
       \n\n***
       \n\n**Lymphatic Detox**  淋巴排毒\n\nS$ 68.00\_|\_60 Mins
-      \n\n***
       "
       - content: "**Moxibustion**  艾灸\n\nS$ 68.00\_|\_60 Mins
       \n\n***
