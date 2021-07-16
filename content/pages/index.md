@@ -24,28 +24,10 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Our Treatments
-    subtitle: "Stay Happy & Healthy with Our Services"
+    subtitle: Stay Happy & Healthy with Our Services
     grid_items:
-      - content: "**Pediatric Tuina**  小儿推拿 (only at NEWest outlet)\n\nS$ 38.00 | 30 Mins
-      \n\n
-      ***
-      \n\n**Shoulder + Neck Treatment**  肩颈 + 腰背\n\nS$ 68.00\_|\_60 Mins
-      \n\n***
-      \n\n**Hip Therapy + Ovarian Care**  臀疗 + 卵巢保养\n\nS$ 68.00\_|\_60 Mins
-      \n\n***
-      \n\n**Leg Therapy** 腿疗\n\nS$ 68.00\_|\_60 Mins
-      \n\n***
-      \n\n**Lymphatic Detox**  淋巴排毒\n\nS$ 68.00\_|\_60 Mins
-      "
-      - content: "**Moxibustion**  艾灸\n\nS$ 68.00\_|\_60 Mins
-      \n\n***
-      \n\n**Guasha**  刮痧\n\nS$ 55.00\_|\_40 Mins
-      \n\n***
-      \n\n**Body Massage**  身体按摩 (only at Havelock outlet)\n\nS$ 55.00\_|\_60 Mins
-      \n\n***
-      \n\n**Meridian Stretch Therapy**  经络拉伸疗法\n\nS$ 98.00\_|\_60 Mins
-      \n\n***
-      \n\n**Oxygen Facial Treatment**  脸部提升注氧\n\nS$ 68.00\_|\_60 Mins\n\n"
+      - content: "**Pediatric Tuina**  小儿推拿 (only at NEWest outlet)\n\nS$ 38.00 | 30 Mins \n\n *** \n\n**Shoulder + Neck Treatment**  肩颈 + 腰背\n\nS$ 68.00\_|\_60 Mins \n\n*** \n\n**Hip Therapy + Ovarian Care**  臀疗 + 卵巢保养\n\nS$ 68.00\_|\_60 Mins \n\n*** \n\n**Leg Therapy** 腿疗\n\nS$ 68.00\_|\_60 Mins \n\n*** \n\n**Lymphatic Detox**  淋巴排毒\n\nS$ 68.00\_|\_60 Mins "
+      - content: "**Moxibustion**  艾灸\n\nS$ 68.00\_|\_60 Mins \n\n*** \n\n**Guasha**  刮痧\n\nS$ 55.00\_|\_40 Mins \n\n*** \n\n**Body Massage**  身体按摩 (only at Havelock outlet)\n\nS$ 55.00\_|\_60 Mins \n\n*** \n\n**Meridian Stretch Therapy**  经络拉伸疗法\n\nS$ 98.00\_|\_60 Mins \n\n*** \n\n**Oxygen Facial Treatment**  脸部提升注氧\n\nS$ 68.00\_|\_60 Mins\n\n"
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
@@ -80,7 +62,7 @@ sections:
         subtitle: Multifunctional Pillow Appliance For Warming Neck
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/Multifunctional Pillow Appliance for Warming Neck.jpeg
         image_alt: Multifuctional Pillow Appliance For Warming Neck
         media_position: right
         media_width: fifty
@@ -140,11 +122,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Stone Needle Eyes Massage Appliance 
+        subtitle: Stone Needle Eyes Massage Appliance
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Stone Needle Eyes Massage Appliance 
+        image_alt: Stone Needle Eyes Massage Appliance
         media_position: right
         media_width: fifty
       - title: null
