@@ -191,23 +191,23 @@ sections:
         content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
-        image_alt: Fire  Series of Artemsia Argyi Pie
+        image_alt: Fire Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Stone Needle Eyes Massage Appliance 
+        subtitle: Wood Series of Artemsia Argyi Pie
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Stone Needle Eyes Massage Appliance 
+        image_alt: Wood Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Stone Needle Portable Massage Plate
+        subtitle: Gold Series of Artemsia Argyi Pie
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Stone Needle Portable Massage Plate
+        image_alt: Gold Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
       - title: null
