@@ -256,7 +256,7 @@ sections:
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Gold Series of Artemsia Argyi Pie
+        image_alt: Active Dredging Oil
         media_position: right
         media_width: fifty
       - title: null
