@@ -39,7 +39,6 @@ sections:
 
 
           **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
       - content: >-
