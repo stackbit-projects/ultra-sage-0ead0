@@ -280,18 +280,7 @@ sections:
           +65 8138 5058
 
           ***
-      - content: |-
-          ## Find Us
-          ***
-          #01-05 Havelock, 2 Havelock Rd. Singapore 059763
-
-          +65 8511 3735
-          ***
-
-          #01-32 NEWest, 1 West Coast Drive Singapore 128020
-
-          +65 8138 5058
-          ***
+      - image: /images/pink.jpeg
     align_vert: top
     padding_top: medium
     padding_bottom: medium
