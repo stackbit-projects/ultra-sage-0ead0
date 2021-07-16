@@ -65,19 +65,19 @@ sections:
     title: Products to Keep Warm
     subtitle: Our Products
     features:
-      - title:
-        subtitle: 'Multifunctional Warm Feet Appliance'
-        content: 
+      - title: null
+        subtitle: Multifunctional Warm Feet Appliance
+        content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
         image_alt: Multifunctional Warm Feet Appliance
         media_position: right
         media_width: fifty
-      - title:
-        subtitle: 'Multifunctional Warm Feet Appliance'
-        content: 
+      - title: null
+        subtitle: Multifunctional Warm Feet Appliance
+        content: null
         actions: []
-        image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
         image_alt: Multifunctional Warm Feet Appliance
         media_position: right
         media_width: fifty
