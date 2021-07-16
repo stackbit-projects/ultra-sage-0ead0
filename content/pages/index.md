@@ -280,7 +280,7 @@ sections:
           +65 8138 5058
 
           ***
-      - image: /images/pink.jpeg
+      - image: /images/WhatsApp Image 2021-07-13 at 2.25.49 PM (1).jpeg
     align_vert: top
     padding_top: medium
     padding_bottom: medium
