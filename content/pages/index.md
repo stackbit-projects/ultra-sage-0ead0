@@ -131,7 +131,7 @@ sections:
     subtitle: Our Products
     features:
       - title: null
-        subtitle: Multifunctional Warm Feet Appliance
+        subtitle: Stone Needle Beauty Instrument
         content: null
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
@@ -139,7 +139,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Multifunctional Warm Buttocks Appliance
+        subtitle: Stone Needle Eyes Massage Appliance 
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
