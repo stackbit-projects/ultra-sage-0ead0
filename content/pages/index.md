@@ -230,6 +230,54 @@ sections:
     features_id: warm
     align: center
     background_color: none
+  - type: features_section
+    title: Artemsia Argyi Pie Collection
+    subtitle: Our Products
+    features:
+      - title: null
+        subtitle: Fire Series of Artemsia Argyi Pie
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image_alt: Fire Series of Artemsia Argyi Pie
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Wood Series of Artemsia Argyi Pie
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Wood Series of Artemsia Argyi Pie
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Gold Series of Artemsia Argyi Pie
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Gold Series of Artemsia Argyi Pie
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Water Series of Artemsia Argyi Pie
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Water Series of Artemsia Argyi Pie
+        media_position: right
+        media_width: fifty
+      - title: null
+        subtitle: Earth Series of Artemsia Argyi Pie
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Earth Series of Artemsia Argyi Pie
+        media_position: right
+        media_width: fifty
+    feature_padding_vert: large
+    features_id: warm
+    align: center
+    background_color: none
   - type: form_section
     content: >-
       ## Let's talk
