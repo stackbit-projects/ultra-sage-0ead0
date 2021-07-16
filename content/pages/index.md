@@ -66,7 +66,7 @@ sections:
     subtitle: Our Products
     features:
       - title:
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: 'Multifunctional Warm Feet Appliance'
         content: 
         actions: []
         image: /images/Multifunctional Warm Feet Appliance.jpeg
