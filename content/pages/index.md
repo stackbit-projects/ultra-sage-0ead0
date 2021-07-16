@@ -25,7 +25,10 @@ sections:
   - type: grid_section
     title: Our Treatments
     grid_items:
-      - content: "Hello worlds"
+      - content: "
+      Hello 
+      world
+      "
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
