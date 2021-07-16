@@ -73,16 +73,14 @@ sections:
         image_alt: Multifunctional Warm Feet Appliance
         media_position: right
         media_width: fifty
-      - title: 
-        subtitle: lorem-ipsum
+      - title:
+        subtitle: 'Multifunctional Warm Feet Appliance'
         content: 
         actions: []
-        image_alt: lorem-ipsum
-        align: left
-        type: feature
         image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image_alt: Multifunctional Warm Feet Appliance
         media_position: right
-        media_width: sixty
+        media_width: fifty
     feature_padding_vert: large
     align: center
     background_color: none
