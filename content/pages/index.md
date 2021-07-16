@@ -78,7 +78,7 @@ sections:
         subtitle: Sitting Moxibustion Therapeutic Apparatus
         content: null
         actions: []
-        image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image: /images/Sitting Moxibustion Therapeutic Apparatus.jpeg
         image_alt: Sitting Moxibustion Apparatus
         media_position: right
         media_width: fifty
