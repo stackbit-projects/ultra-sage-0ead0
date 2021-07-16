@@ -27,7 +27,7 @@ sections:
     grid_items:
       - content: |
           **Pediatric Tuina**  小儿推拿 (only at NEWest outlet)
-          **S$ 38.00** | *30 Mins*
+          \n **S$ 38.00** | *30 Mins*
           ____
 
           **Shoulder + Neck Treatment**  肩颈 + 腰背
