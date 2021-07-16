@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "Contact me",
-                "url": "/contact",
+                "url": "/#contact-us",
                 "style": "link"
             }
         ],
