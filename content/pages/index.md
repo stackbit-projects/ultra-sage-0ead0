@@ -81,7 +81,7 @@ sections:
         image_alt: Multifunctional Warm Feet Appliance
         media_position: right
         media_width: fifty
-        title: null
+      - title: null
         subtitle: Multifunctional Warm Buttocks Appliance
         content: null
         actions: []
