@@ -281,7 +281,8 @@ models:
         name: anncmnt_id
         label: Announcement ID
         description: >-
-          A unique identifier, required if close button is enabled. Must be updated each time the announcement content changes
+          A unique identifier, required if close button is enabled. Must be
+          updated each time the announcement content changes
   person:
     type: data
     label: Person
@@ -481,7 +482,7 @@ models:
       - type: string
         name: section_id
         label: Section ID
-        description: A unique identifier of the section, must not contain whitespace
+        description: 'A unique identifier of the section, must not contain whitespace'
       - type: string
         name: title
         label: Title
@@ -1694,3 +1695,4 @@ models:
               default: name
             - type: boolean
               name: relativeUrl
+nodeVersion: 14
