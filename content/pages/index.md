@@ -49,7 +49,7 @@ sections:
     background_image: /images/pexels-andrea-piacquadio-3760262.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 0
+    background_image_opacity: 100
   - type: features_section
     title: Products to Keep Warm
     subtitle: Our Products
