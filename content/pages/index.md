@@ -279,8 +279,10 @@ sections:
     section_id: contact-us
   - type: grid_section
     title: null
-    content: 
-    
+    content: >-
+        ## Let's Talk
+
+        Reach out to us through our numbers, or come to one of our outlets. Call us to book appointments!
     align_vert: top
     padding_top: medium
     padding_bottom: medium
