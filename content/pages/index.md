@@ -221,7 +221,7 @@ sections:
         subtitle: Active Dredging Cream
         content: null
         actions: []
-        image: /images/Multifunctional Warm Feet Appliance.jpeg
+        image: /images/WhatsApp Image 2021-07-13 at 3.07.03 PM.jpeg
         image_alt: Active Dredging Cream
         media_position: right
         media_width: fifty
