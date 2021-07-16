@@ -205,7 +205,7 @@ sections:
         subtitle: Earth Series of Artemsia Argyi Pie
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/earth.jpeg
         image_alt: Earth Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
