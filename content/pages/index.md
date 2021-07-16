@@ -75,7 +75,7 @@ sections:
         image: /images/Multifunctional Warm Feet Appliance.jpeg
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: forty
+        media_width: fifty
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
