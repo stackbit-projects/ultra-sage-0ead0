@@ -279,6 +279,7 @@ sections:
     section_id: contact-us
   - type: grid_section
     title: null
+    content: 
     
     align_vert: top
     padding_top: medium
