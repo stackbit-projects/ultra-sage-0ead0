@@ -245,7 +245,7 @@ sections:
         subtitle: Renew Firming Essential Oil
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/pink.jpeg
         image_alt: Renew Firming Essential Oil
         media_position: right
         media_width: fifty
