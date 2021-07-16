@@ -50,13 +50,7 @@ sections:
       - content: "**S$ 38.00** | *30 Mins*\n\n**S$ 68.00** | *60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 55.00**\_|\_*40 Mins*\n\n**S$ 55.00**\_|\_*60 Mins*\n\n**S$ 98.00** |\_*60 Mins* \n\n**S$ 68.00** |\_*60 Mins* \n"
         image_position: left
         image_width: twenty-five
-      - content: >
-          I love it whena content writer can really wordsmith and create copy
-          that suits the design intention and style!
-
-
-          **Gordon Norman,** *Web Designer, Local Business*
-        image_position: left
+      - image_position: left
         image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
