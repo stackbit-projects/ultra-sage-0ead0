@@ -62,7 +62,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: features_section
-    title: My services
+    title: Our Products
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
