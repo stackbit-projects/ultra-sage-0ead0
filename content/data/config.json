@@ -28,11 +28,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
-            },
-            {
-                "label": "Contact me",
-                "url": "/contact",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
