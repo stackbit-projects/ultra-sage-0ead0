@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Aiyisheng: Life, Wellness & Beauty.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Located in Singapore, we provide products and services to help you live a
+      healthier life with wellness and beauty.
     actions:
       - label: Contact Me
         url: /contact
