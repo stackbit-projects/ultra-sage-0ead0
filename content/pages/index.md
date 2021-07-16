@@ -279,6 +279,10 @@ sections:
     section_id: contact-us
   - type: grid_section
     title: Here's a title for ya
+    grid_items: 
+      - content: >-
+            ## Let's Talk
+            book appointments!
     content: >-
         ## Let's Talk
 
