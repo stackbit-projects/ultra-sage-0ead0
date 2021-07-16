@@ -82,11 +82,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Multifunctional Warm Buttocks Appliance
+        subtitle: Multifunctional Pillow Appliance For Warming Neck
         content: null
         actions: []
         image: /images/Multifunctional Pillow Appliance For Warming Neck.jpeg
-        image_alt: Multifuctional Warm Feet Appliance
+        image_alt: Multifuctional Pillow Appliance For Warming Neck
         media_position: right
         media_width: fifty
     feature_padding_vert: large
