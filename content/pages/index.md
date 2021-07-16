@@ -295,7 +295,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     section_id: contact-us
-
+    grid_cols: two
 seo:
   title: Aiyisheng
   description: Aiyisheng beauty services & products 
