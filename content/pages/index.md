@@ -154,6 +154,14 @@ sections:
         image_alt: Stone Needle Portable Massage Plate
         media_position: right
         media_width: fifty
+      - title: null
+        subtitle: Stone Needle Portable Massage Plate
+        content: null
+        actions: []
+        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image_alt: Stone Needle Portable Massage Plate
+        media_position: right
+        media_width: fifty
     feature_padding_vert: large
     features_id: warm
     align: center
