@@ -122,7 +122,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: red
+    background_color: none
   - type: form_section
     content: >-
       ## Let's talk
