@@ -48,43 +48,29 @@ sections:
 
           臀疗 + 卵巢保养
 
-
-
           Leg Therapy
 
           腿疗
-
-
 
           Lymphatic Detox
 
           淋巴排毒
 
-
-
           Moxibustion
 
           艾灸
-
-
 
           Guasha
 
           刮痧
 
+          Body Massage
 
+          身体按摩
 
-          Body Massage 
+          Meridian Stretch Therapy
 
-          身体按摩 
-
-
-
-          Meridian Stretch Therapy 
-
-          经络拉伸疗法 
-
-
+          经络拉伸疗法
 
           Oxygen Facial Treatment
 
