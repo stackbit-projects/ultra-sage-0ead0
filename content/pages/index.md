@@ -278,7 +278,8 @@ sections:
     background_image_opacity: 8
     section_id: contact-us
   - type: grid_section
-    title: 
+    title: null
+    
     align_vert: top
     padding_top: medium
     padding_bottom: medium
