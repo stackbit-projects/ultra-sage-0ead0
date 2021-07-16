@@ -50,8 +50,8 @@ sections:
       - content: "**S$ 38.00** | *30 Mins*\n\n**S$ 68.00** | *60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 68.00**\_|\_*60 Mins*\n\n**S$ 55.00**\_|\_*40 Mins*\n\n**S$ 55.00**\_|\_*60 Mins*\n\n**S$ 98.00** |\_*60 Mins* \n\n**S$ 68.00** |\_*60 Mins* \n"
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
+      - content: >
+          I love it whena content writer can really wordsmith and create copy
           that suits the design intention and style!
 
 
