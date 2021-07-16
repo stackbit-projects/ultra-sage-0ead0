@@ -244,11 +244,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Wood Series of Artemsia Argyi Pie
+        subtitle: Relaxing Essential Oil
         content: null
         actions: []
         image: /images/Multifunctional Warm Buttocks Appliance.jpeg
-        image_alt: Wood Series of Artemsia Argyi Pie
+        image_alt: Relaxing Essential Oil
         media_position: right
         media_width: fifty
       - title: null
