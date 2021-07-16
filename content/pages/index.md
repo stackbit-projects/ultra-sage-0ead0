@@ -197,7 +197,7 @@ sections:
         subtitle: Water Series of Artemsia Argyi Pie
         content: null
         actions: []
-        image: /images/Multifunctional Warm Buttocks Appliance.jpeg
+        image: /images/water.jpeg
         image_alt: Water Series of Artemsia Argyi Pie
         media_position: right
         media_width: fifty
