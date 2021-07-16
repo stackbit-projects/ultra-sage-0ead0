@@ -265,8 +265,9 @@ sections:
       - content: >-
             ## Find Us
 
-            **#01-05 Havelock, 2 Havelock Rd. Singapore 059763**
-            
+            #01-05 Havelock, 2 Havelock Rd. Singapore 059763
+            +
+
 
 
     align_vert: top
