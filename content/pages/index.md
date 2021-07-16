@@ -25,8 +25,8 @@ sections:
   - type: grid_section
     title: Our Treatments
     grid_items:
-      - content: ""
-    grid_cols: two
+      - content: "Hello world"
+    grid_cols: one
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
