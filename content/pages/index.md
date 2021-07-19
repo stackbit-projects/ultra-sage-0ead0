@@ -254,7 +254,7 @@ sections:
         content: null
         actions: []
         image: /images/pink.jpeg
-        image_alt: Renew Firming Essential Oil
+        image_alt: BIBOTING Healthcare Massager
         media_position: right
         media_width: fifty
     feature_padding_vert: large
