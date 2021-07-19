@@ -253,7 +253,7 @@ sections:
         subtitle: BIBOTING Healthcare Massager
         content: null
         actions: []
-        image: /images/pink.jpeg
+        image: /images/WhatsApp Image 2021-07-19 at 1.34.35 PM.jpeg
         image_alt: Healthcare Massager
         media_position: right
         media_width: fifty
