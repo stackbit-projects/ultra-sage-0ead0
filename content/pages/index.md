@@ -250,7 +250,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: BIBOTING Health
+        subtitle: BIBOTING Healthcare Massager
         content: null
         actions: []
         image: /images/pink.jpeg
