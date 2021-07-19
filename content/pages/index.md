@@ -250,7 +250,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Renew Firming Essential Oil
+        subtitle: BIBOTING Health
         content: null
         actions: []
         image: /images/pink.jpeg
