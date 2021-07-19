@@ -254,7 +254,7 @@ sections:
         content: null
         actions: []
         image: /images/pink.jpeg
-        image_alt: Biboting Healthcare Massager
+        image_alt: Healthcare Massager
         media_position: right
         media_width: fifty
     feature_padding_vert: large
