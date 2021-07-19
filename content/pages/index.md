@@ -249,6 +249,14 @@ sections:
         image_alt: Renew Firming Essential Oil
         media_position: right
         media_width: fifty
+      - title: null
+        subtitle: Renew Firming Essential Oil
+        content: null
+        actions: []
+        image: /images/pink.jpeg
+        image_alt: Renew Firming Essential Oil
+        media_position: right
+        media_width: fifty
     feature_padding_vert: large
     features_id: warm
     align: center
