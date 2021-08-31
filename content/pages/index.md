@@ -178,7 +178,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: null
-        subtitle: Wood Series of Artemsia Argyi Pie
+        subtitle: Wood Series of Artemisia Argyi Pie
         content: null
         actions: []
         image: /images/wood.jpeg
